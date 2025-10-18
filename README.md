@@ -2,7 +2,7 @@
 An interactive Sorting Visualizer built using HTML, CSS, and JavaScript to help users understand how sorting algorithms work internally through real-time visual animations.
 
 🚀 Features :- 
-1)Visualizes popular sorting algorithms such as (Bubble Sort,Selection Sort,Insertion Sort,Quick Sort,Merge Sort)
+1)Visualizes popular sorting algorithms such as (Bubble Sort,Selection Sort,Insertion Sort,Quick Sort,Merge Sort).
 2)Adjustable speed control — 1x, 2x, and 4x speed for better visualization.
 3)Random array generator (up to 50 elements) with input validation.
 4)Highlights current comparing index and correct sorted position.
@@ -11,8 +11,8 @@ An interactive Sorting Visualizer built using HTML, CSS, and JavaScript to help 
 🛠 Tech Stack :- 
 1)HTML5	- Structure and layout.
 2)CSS3 - Styling and responsive UI.
-3)JavaScript(ES6) - Algorithm logic and visual animations
-4)DOM Manipulation -	Dynamic bar generation and updates
+3)JavaScript(ES6) - Algorithm logic and visual animations.
+4)DOM Manipulation -	Dynamic bar generation and updates.
 
 🎯 Learning Goals & Concepts Covered :-
 1)Practical understanding of sorting algorithms.
@@ -22,13 +22,11 @@ An interactive Sorting Visualizer built using HTML, CSS, and JavaScript to help 
 5)Improved JavaScript problem-solving and visualization logic.
 
 💡 Future Enhancements :- 
-
-1)You can leave it to show upcoming work plans:
-2)Add Heap Sort and Shell Sort
-3)Display time complexity comparison table
-4)Add dark mode theme
-5)Show step counter or swap count
-6)Convert project to React version
+1)Add Heap Sort and Shell Sort
+2)Display time complexity comparison table
+3)Add dark mode theme
+4)Show step counter or swap count
+5)Convert project to React version
 
 
 
