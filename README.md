@@ -1,4 +1,4 @@
-#1 Sorting Algorithms Visualizer :-
+#1 Sorting Algorithms Visualizer :- 
 An interactive Sorting Visualizer built using HTML, CSS, and JavaScript to help users understand how sorting algorithms work internally through real-time visual animations.
 
 🚀 Features :- 
